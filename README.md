@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Betul</h1>
 <h3 align="center">A passionate java developer from Turkey</h3>
 <img align="right" alt="Coding" witdh="100" height="200" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
